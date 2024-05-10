@@ -11,3 +11,8 @@
 
 ## СУБД
 Задания реализованы в СУБД PosrgreSQL.
+
+## Автор
+Виталий Трунин - основатель проекта Self-Leaning.ru
+
+[https://self-learning.ru/](https://self-learning.ru/)
